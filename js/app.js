@@ -134,6 +134,3 @@ $(document).ready(function(){
 });
 
 
-
-// 4PS
-// 5DONE
